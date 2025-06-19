@@ -244,37 +244,37 @@
   <section id="absen">
     <h2>Daftar Absen Kelas 6B</h2>
     <ol>
-      <li>Aisyah Dahlia</li>
-      <li>Alika Altafunisa</li>
-      <li>Aliya Shakila N.</li>
-      <li>Amirah Angelina P.</li>
-      <li>Ariya</li>
-      <li>Arsyila Azzahra R.</li>
-      <li>Azahwa Kirana P.</li>
-      <li>Bagas Saputra</li>
-      <li>Denis Fakhri A.</li>
-      <li>Devita Ristia</li>
-      <li>Jahrana Azizah</li>
-      <li>Kayra Alqirani</li>
-      <li>Ilyas</li>
-      <li>M.Yusuf A.</li>
-      <li>M.Arkan</li>
-      <li>M.Aroby</li>
-      <li>M.Kefin P.</li>
-      <li>M.Refan A.</li>
-      <li>Nadhira Rizqia A.</li>
-      <li>Nur Azmi A.</li>
-      <li>Panji Rezki s.</li>
-      <li>Rafi Saputra</li>
-      <li>Rheisa Asilawarti</li>
-      <li>Salsabila Nur F.</li>
-      <li>Simon Alfonso S.</li>
-      <li>Sukoco Haris J.</li>
-      <li>Syamwil Muhammad</li>
-      <li>Ummi Kalsum</li>
-      <li>Uswah Khaira H.</li>
-      <li>Yulianti Ramadhani</li>
-      <li>Zarin Qaireen R.</li>
+      <li>1.Aisyah Dahlia</li>
+      <li>2.Alika Altafunisa</li>
+      <li>3.Aliya Shakila N.</li>
+      <li>4.Amirah Angelina P.</li>
+      <li>5.Ariya</li>
+      <li>6.Arsyila Azzahra R.</li>
+      <li>7.Azahwa Kirana P.</li>
+      <li>8.Bagas Saputra</li>
+      <li>9.Denis Fakhri A.</li>
+      <li>10.Devita Ristia</li>
+      <li>11.Jahrana Azizah</li>
+      <li>12.Kayra Alqirani</li>
+      <li>13.Ilyas</li>
+      <li>14.M.Yusuf A.</li>
+      <li>15.M.Arkan</li>
+      <li>16.M.Aroby</li>
+      <li>17.M.Kefin P.</li>
+      <li>18.M.Refan A.</li>
+      <li>19.Nadhira Rizqia A.</li>
+      <li>20.Nur Azmi A.</li>
+      <li>21.Panji Rezki s.</li>
+      <li>22.Rafi Saputra</li>
+      <li>23.Rheisa Asilawarti</li>
+      <li>24.Salsabila Nur F.</li>
+      <li>25.Simon Alfonso S.</li>
+      <li>26.Sukoco Haris J.</li>
+      <li>27.Syamwil Muhammad</li>
+      <li>28.Ummi Kalsum</li>
+      <li>29.Uswah Khaira H.</li>
+      <li>30.Yulianti Ramadhani</li>
+      <li>31.Zarin Qaireen R.</li>
     </ol>
   </section>
 
