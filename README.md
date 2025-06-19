@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -290,9 +289,5 @@
     <img src="WhatsApp Image 2025-05-30 at 07.23.15.jpeg" />
     <img src="CIWICIWIII.jpeg" />
   </section>
-</main>
 
 <footer>© sixbee - azahwaa</footer>
-
-</body>
-</html>
